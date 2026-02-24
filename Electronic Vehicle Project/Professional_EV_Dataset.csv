@@ -1,0 +1,51 @@
+Date,Month,Year,Country,State,City,Vehicle_Type,Brand,query,search interest,increase percent,Rank
+3/13/2025,3,2025,India,Karnataka,Bangalore,Bike,Tata,ev,100,6,1
+6/7/2025,6,2025,India,Karnataka,Bangalore,Scooter,Ather,ev punch,36,250,2
+2/6/2025,2,2025,India,Telangana,Hyderabad,Scooter,Ola,punch ev,36,300,2
+1/27/2025,1,2025,India,Telangana,Hyderabad,Car,Ola,punch,35,300,4
+2/9/2025,2,2025,India,Tamil Nadu,Chennai,Bike,Ola,tata,16,50,5
+1/30/2025,1,2025,India,Maharashtra,Mumbai,Scooter,Tata,tata ev,16,50,5
+1/2/2025,1,2025,India,Telangana,Hyderabad,Scooter,Ola,ev car,13,-5,7
+1/26/2025,1,2025,India,Tamil Nadu,Chennai,Bike,MG,punch ev price,11,250,8
+4/19/2025,4,2025,India,Karnataka,Bangalore,Car,Tata,tata punch ev,8,200,9
+4/26/2025,4,2025,India,Delhi,New Delhi,Car,Mahindra,tata punch,8,200,9
+2/15/2025,2,2025,India,Karnataka,Bangalore,Scooter,Tata,ev cars,6,-7,12
+3/25/2025,3,2025,India,Karnataka,Bangalore,Bike,MG,punch on road price,6,200,12
+5/16/2025,5,2025,India,Delhi,New Delhi,Bike,MG,punch ev on road price,6,200,12
+4/9/2025,4,2025,India,Tamil Nadu,Chennai,Bike,Mahindra,punch ev price on road,6,200,12
+4/28/2025,4,2025,India,Karnataka,Bangalore,Scooter,Mahindra,nexon,5,20,19
+6/2/2025,6,2025,India,Telangana,Hyderabad,Scooter,MG,nexon ev,5,20,19
+6/4/2025,6,2025,India,Telangana,Hyderabad,Scooter,Mahindra,ev scooter,5,-30,19
+4/25/2025,4,2025,India,Maharashtra,Mumbai,Bike,Mahindra,punch ev 2026,5,300,19
+6/1/2025,6,2025,India,Tamil Nadu,Chennai,Car,Ather,new punch ev,5,350,19
+3/12/2025,3,2025,India,Tamil Nadu,Chennai,Scooter,Tata,punch ev new,5,350,19
+5/8/2025,5,2025,India,Maharashtra,Mumbai,Bike,Mahindra,punch facelift ev,5,250,19
+5/5/2025,5,2025,India,Delhi,New Delhi,Car,Mahindra,punch facelift,5,250,19
+4/18/2025,4,2025,India,Delhi,New Delhi,Scooter,Mahindra,punch ev facelift,5,250,19
+6/14/2025,6,2025,India,Tamil Nadu,Chennai,Bike,Tata,mahindra,4,-20,25
+4/25/2025,4,2025,India,Telangana,Hyderabad,Bike,Tata,mahindra ev,4,-20,25
+2/14/2025,2,2025,India,Maharashtra,Mumbai,Bike,Ola,electric vehicle,4,-30,25
+1/23/2025,1,2025,India,Karnataka,Bangalore,Bike,Ather,mg ev,3,-20,30
+3/27/2025,3,2025,India,Telangana,Hyderabad,Scooter,Ola,tata punch ev price,3,200,30
+1/26/2025,1,2025,India,Maharashtra,Mumbai,Scooter,Ather,baas ev,3,750,30
+1/1/2025,1,2025,India,Karnataka,Bangalore,Bike,Ather,tata ev car,3,40,30
+2/14/2025,2,2025,India,Tamil Nadu,Chennai,Bike,Mahindra,ev bike,3,-30,30
+3/30/2025,3,2025,India,Maharashtra,Mumbai,Scooter,Tata,electric cars,3,30,30
+4/17/2025,4,2025,India,Maharashtra,Mumbai,Car,Tata,electric car,3,-10,30
+6/17/2025,6,2025,India,Telangana,Hyderabad,Scooter,Tata,ev cars in india,3,-3,30
+5/28/2025,5,2025,India,Delhi,New Delhi,Car,MG,punch ev baas,2,,42
+4/11/2025,4,2025,India,Delhi,New Delhi,Scooter,Tata,nexon ev price,2,8,42
+3/1/2025,3,2025,India,Maharashtra,Mumbai,Bike,Mahindra,punch ev facelift 2026,2,300,42
+3/25/2025,3,2025,India,Maharashtra,Mumbai,Scooter,Tata,punch ev range,2,200,42
+6/8/2025,6,2025,India,Maharashtra,Mumbai,Scooter,Ather,windsor ev,2,0,42
+4/17/2025,4,2025,India,Tamil Nadu,Chennai,Scooter,Tata,tata punch on road price,2,180,42
+3/18/2025,3,2025,India,Telangana,Hyderabad,Car,MG,tata ev punch on road price,2,170,42
+2/3/2025,2,2025,India,Delhi,New Delhi,Car,Ather,tata punch ev on road price,2,180,42
+3/31/2025,3,2025,India,Maharashtra,Mumbai,Bike,Ather,kia ev,2,-20,42
+6/10/2025,6,2025,India,Telangana,Hyderabad,Scooter,Ather,maruti ev,2,-30,42
+2/2/2025,2,2025,India,Maharashtra,Mumbai,Scooter,Ather,tata punch ev 2026,2,300,42
+4/30/2025,4,2025,India,Karnataka,Bangalore,Bike,Ather,tata cars,2,30,42
+2/23/2025,2,2025,India,Karnataka,Bangalore,Car,MG,tvs ev,2,-20,42
+5/26/2025,5,2025,India,Tamil Nadu,Chennai,Bike,MG,tata ev cars,2,30,42
+5/29/2025,5,2025,India,Tamil Nadu,Chennai,Bike,Tata,ev scooter price,2,-20,42
+3/28/2025,3,2025,India,Karnataka,Bangalore,Bike,Mahindra,tata nexon ev,2,30,42
